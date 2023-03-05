@@ -24,4 +24,6 @@ git push
 
 Cant clone from GitHub : SSL certificate problem: unable to get local issuer certificate
 
+<https://www.jianshu.com/p/8521443dfee0>
+
 <https://github.com/desktop/desktop/issues/9293>
